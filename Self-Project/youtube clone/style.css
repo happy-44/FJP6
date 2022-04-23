@@ -1,0 +1,47 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+}
+header>i{
+    margin-left: -1rem;
+    margin-right: -2.5rem;
+    color:red;
+}
+.dot{
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+}
+header>button{
+    margin-left: -4rem;
+}
+header>span{
+    margin-left: -2rem;
+    margin-right: 2rem;
+}
+header>input{
+    margin-left : 8rem;
+}
+.happy{
+    display : flex;
+}
+.happy1>div{
+    text-align: center;
+    margin-top: 0.2rem;
+}
+.happy1>div>h6{
+    margin-top:0.2rem;
+}
+ul{
+    display: flex;
+    list-style-type:none;
+    justify-content: space-evenly;
+    width:73rem;
+
+}
+.happy3>i{
+    margin-left : 1rem;
+}
+
