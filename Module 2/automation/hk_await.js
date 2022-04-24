@@ -48,7 +48,7 @@ async function waitAndClick(selector, page){
 }
 async function questionSolver(question,answer,page){
     await page.goto(question);
-    await waitAndClick(".checkbox-input",page);
+    await waitAndClick(".checkbox-input",page90p);
     await waitAndClick(".input-wrap",page);
     await page.type(".input-wrap", answer);
     await page.keyboard.down("Control");
