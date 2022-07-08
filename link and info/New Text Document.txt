@@ -4,3 +4,8 @@ https://docs.google.com/spreadsheets/d/1i4YhZKBSKPU9UG5lGV3M3F-GruFWeE_0ZqLfwxUv
 https://github.com/mohd-aman/FJP6/blob/main/css_selector_questions/q11.html
 https://github.com/mohd-aman/FJP6
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+https://docs.google.com/spreadsheets/d/1i4YhZKBSKPU9UG5lGV3M3F-GruFWeE_0ZqLfwxUvYz8/edit#gid=721852567
+https://docs.google.com/spreadsheets/d/175daqFPRsdK1BOLxHjZtlfhu0g_PoReQaXYuruXTxLM/edit#gid=1718129576
+https://www.hackerrank.com/test1-slot1-A
+https://mohd-aman.github.io/cross-platform-excel-clone/
