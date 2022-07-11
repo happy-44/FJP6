@@ -9,3 +9,9 @@ https://docs.google.com/spreadsheets/d/1i4YhZKBSKPU9UG5lGV3M3F-GruFWeE_0ZqLfwxUv
 https://docs.google.com/spreadsheets/d/175daqFPRsdK1BOLxHjZtlfhu0g_PoReQaXYuruXTxLM/edit#gid=1718129576
 https://www.hackerrank.com/test1-slot1-A
 https://mohd-aman.github.io/cross-platform-excel-clone/
+https://docs.google.com/spreadsheets/d/1s9K73aGp-AksGOLIAWTsLwAud13w8M3ao6nGaNalpMc/edit#gid=325123879
+https://reactjs.org/docs/components-and-props.html
+http://127.0.0.1:5500/module4/react/counter.html
+https://movie-react-app-udai.netlify.app/
+//https://api.themoviedb.org/3/movie/popular?api_key=f737e4bbfae7e32efc6ee0756a86f797
+https://api.themoviedb.org/3/movie/popular?api_key=f737e4bbfae7e32efc6ee0756a86f797&language=en-US&page=1
